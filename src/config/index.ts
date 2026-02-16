@@ -8,7 +8,7 @@ export const SITE_CONFIG: SiteConfig = {
   lang: "en",
   siteLogo: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
   navLinks: [
-    { text: "Experience", href: "#experience" },
+    { text: "Education", href: "#experience" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
@@ -26,7 +26,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Talha Ibn Hafiz",
     specialty: "CS Enthuasiast",
     summary:
-      "High School Student (Science) at Rajshahi Govt. City College, Rajshai, Bangladesh.",
+      "High School Student (Science) at Rajshahi Govt. City College, Rajshahi, Bangladesh.",
     email: "talhaibnhafiz2007@email.com",
   },
   experience: [
@@ -65,7 +65,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A specialized filtration project aimed at reducing carbon emissions from exhaust systems. This system uses activated carbon technology to trap harmful particles and greenhouse gases, contributing to a cleaner and more breathable environment.",
       linkPreview: "/",
       linkSource: "https://github.com/talhaibnhafiz",
-      image: "/carbon.jpg",
+      image: "/Carbon.jpg",
     },
   ],
   about: {
