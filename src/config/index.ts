@@ -43,7 +43,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Jan 2016",
       endDate: "May 2024",
       summary: ["At Seroil Govt. High School"],
-    },ে
+    },/ে/
   ],
   projects: [
     {
