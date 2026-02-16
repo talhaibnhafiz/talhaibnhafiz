@@ -17,7 +17,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/talhaibnhafiz" },
     { text: "Phone", href: "01628112832" },
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
@@ -85,11 +85,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      Hi, I’m Talha Ibn Hafiz, an Intermediate last year Student.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
   },
 };
 
