@@ -15,7 +15,7 @@ export const SITE_CONFIG: SiteConfig = {
   socialLinks: [
     { text: "LinkedIn", href: "https://linkedin.com/in/talhaibnhafiz" },
     { text: "Github", href: "https://github.com/talhaibnhafiz" },
-    { text: "Phone", href: "01628112832" },
+    { text: "Email", href: "talhaibnhafiz2007@gmail.com" },
   ],
   socialImage: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -43,7 +43,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Jan 2016",
       endDate: "May 2024",
       summary: ["At Seroil Govt. High School"],
-    }, // এখানে কমা এবং ব্র্যাকেট ঠিক করা হয়েছে
+    },ে
   ],
   projects: [
     {
