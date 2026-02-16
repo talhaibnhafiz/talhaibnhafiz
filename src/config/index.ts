@@ -48,29 +48,29 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Integrated Eco Factory",
-      summary: "Developed an automated industrial system focused on reducing energy waste and monitoring environmental pollutants using Sensor Networks.Integrated real-time resource management through Wireless Communication platforms to ensure sustainable manufacturing processes.Designed a centralized control system to optimize factory operations and minimize carbon footprint.",
+      summary: "An automated industrial system designed to reduce energy waste and monitor pollutants using sensor networks. It features real-time resource management through wireless communication to ensure sustainable and eco-friendly manufacturing processes.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      linkSource: "https://github.com/talhaibnhafiz",
+      image: "/Eco_factory.jpg",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "Smart IoT based Helmet",
+      summary: "An IoT-based safety solution for motorcyclists and industrial workers. It includes features like accident detection, emergency alerts, and real-time health monitoring (such as heart rate or oxygen levels) to ensure maximum safety on the go.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      linkSource: "https://github.com/talhaibnhafiz",
+      image: "/smart_helmet.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "Road AQI=0 ",
+      summary: "A specialized filtration project aimed at reducing carbon emissions from exhaust systems. This system uses activated carbon technology to trap harmful particles and greenhouse gases, contributing to a cleaner and more breathable environment.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      linkSource: "https://github.com/talhaibnhafiz",
+      image: "/carbon.jpg",
     },
   ],
   about: {
     description: `
-      Hi, I’m Talha Ibn Hafiz, an Intermediate last year Student.
+      I'm Talha Ibn Hafiz, a Science student at Rajshahi Govt. City College with a deep passion for Computer Science and Engineering. I love exploring new technologies and building innovative projects like IoT-based safety systems and eco-friendly industrial solutions. Currently, I'm focusing on strengthening my foundation in web development and sustainable technology.
     `,
     image: "/7d1d28a3-b269-4562-9f32-356c52708d8c.jpg",
   },
