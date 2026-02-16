@@ -62,8 +62,10 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "Integrated Eco Factory",
+      summary: "Developed an automated industrial system focused on reducing energy waste and monitoring environmental pollutants using Sensor Networks.",
+        "Integrated real-time resource management through Wireless Communication platforms to ensure sustainable manufacturing processes.",
+        "Designed a centralized control system to optimize factory operations and minimize carbon footprint.",
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
